@@ -112,4 +112,4 @@ function add(num1, num2) {
 
 - [x] Task 1 <!-- Completed -->
 - [x] Task 2 <!-- Completed -->
-- [] Task 3 <!-- Uncompleted -->
+- [ ] Task 3 <!-- Uncompleted -->
